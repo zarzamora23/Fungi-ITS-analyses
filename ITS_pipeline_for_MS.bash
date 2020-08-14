@@ -1,4 +1,4 @@
-### Created by E.Zarza in 2019 to analyse ITS data for manuscript :Fungal diversity associated with traditional coffee plantations in Soconusco region, Mexico; an approach for orchid conservation
+### Created by E.Zarza in 2020 to analyse ITS data for manuscript: Fungal diversity in shade-coffee plantations in Soconusco, Mexico: impact on orchid conservation
 ### Eugenia Zarza, Alejandra López-Pastrana, Anne Damon, Griselda Karina Guillén-Navarro, Luz Verónica García-Fajardo. 
 ### El Colegio de la Frontera Sur - Tapachula - Mexico
 ### Raw sequences are available form Genbank bioproject: PRJNA610266 (From april 2021, or at publication time)
