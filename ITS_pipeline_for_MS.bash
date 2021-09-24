@@ -1,7 +1,7 @@
-### Created by E.Zarza in 2020 to analyse ITS data for manuscript: Fungal diversity in shade-coffee plantations in Soconusco, Mexico: impact on orchid conservation
+### Created by E.Zarza in 2020 to analyse ITS data for manuscript: Fungal diversity in shade-coffee plantations in Soconusco, Mexico
 ### Eugenia Zarza, Alejandra López-Pastrana, Anne Damon, Griselda Karina Guillén-Navarro, Luz Verónica García-Fajardo. 
 ### El Colegio de la Frontera Sur - Tapachula - Mexico
-### Raw sequences are available form Genbank bioproject: PRJNA610266 (From april 2021, or at publication time)
+### Raw sequences are available form Genbank bioproject: PRJNA610266 (At publication time)
 ### Analyses were executed on the Linux Subsytem for Windows. It requires QIIME2, R, vegan and other libraries indicated bellow.
 ### This is not intended to run as script. Commands should be executed one by one. Main reason for this is that it is necessary to check outcome of applied filters.
 ### These notes start indicating the database for taxonomy assignment, followed by importing data to QIIME2, taxonomic assignment, diversity calculations considering all taxa included in UNITE, heatmap creation, GUILDFun analysis and CLAM test 
