@@ -1,2 +1,2 @@
 # Fungi-ITS-analyses
-This repository contains two files. 1) A file describing the steps followed to analyse ITS data for the manuscript "Fungal diversity in shade-coffee plantations in Soconusco, Mexico"; 2) A script that executes a cutadapt loop to remove adapters from raw ITS sequences.
+This repository contains three files. 1) A file describing the steps followed to analyse ITS data for the manuscript "Fungal diversity in shade-coffee plantations in Soconusco, Mexico"; 2) A file describing the steps followed to perform alpha and beta diversity analyses, create heatmaps and boxplots, and indicator species in R; 3) A script that executes a cutadapt loop to remove adapters from raw ITS sequences.
